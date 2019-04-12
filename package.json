@@ -2,6 +2,7 @@
   "name": "react-native-travel-app",
   "version": "0.0.1",
   "private": true,
+  "author": "Emrullah Ayın",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
